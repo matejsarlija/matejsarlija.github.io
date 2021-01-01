@@ -1,3 +1,3 @@
 # Hello Page
 
-Slobodno me kontaktirajte pute bilo kojeg medija.
+Slobodno me kontaktirajte putem bilo kojeg medija.
