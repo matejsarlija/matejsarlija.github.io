@@ -31,7 +31,7 @@ p {font-weight: 500; font-size: 23px;}
   display: none;  /* Safari and Chrome */
 }
 
-article {padding: 40px;}
+article {padding: 60px;}
 /* TODO find better cross-platform characters */
 /* article::before {
   content: '\2601';
