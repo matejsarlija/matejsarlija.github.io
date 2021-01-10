@@ -12,6 +12,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffded1', end
 
 body, html {height: 100%;}
 
+header { padding: 20px; }
+
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
 
