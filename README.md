@@ -1,3 +1,6 @@
 # Hello Page
 
-Slobodno me kontaktirajte putem bilo kojeg medija.
+Profesionalne kuhinje za najam u Zagrebu.
+
+Tel: +385915439060
+mail: matejsarlija1@gmail.com
