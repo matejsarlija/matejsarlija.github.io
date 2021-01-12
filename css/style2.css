@@ -33,6 +33,14 @@ p {font-weight: 400; font-size: 20px;}
   display: none;  /* Safari and Chrome */
 }
 
+.frosty {
+    background: rgba(255,255,255,0.4);
+    backdrop-filter: blur(50px);
+    border-radius: 10px;
+    border: 0 solid rgba(255,255,255,0.2);
+    margin: 10px;
+}
+
 article {padding: 60px;}
 /* TODO find better cross-platform characters */
 /* article::before {
