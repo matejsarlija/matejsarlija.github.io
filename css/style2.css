@@ -38,7 +38,7 @@ p {font-weight: 400; font-size: 20px;}
     backdrop-filter: blur(50px);
     border-radius: 10px;
     border: 0 solid rgba(255,255,255,0.2);
-    margin: 10px;
+    margin: 5px;
 }
 
 article {padding: 60px;}
