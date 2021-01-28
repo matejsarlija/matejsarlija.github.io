@@ -37,8 +37,12 @@ p {font-weight: 400; font-size: 20px; overflow-wrap: break-word;}
     background: rgba(255,255,255,0.4);
     backdrop-filter: blur(50px);
     border-radius: 10px;
-    border: 0 solid rgba(255,255,255,0.2);
+    border: 5px solid rgba(141, 148, 250, 0.5);
     margin: 5px;
+}
+
+.extra {
+  border: 5px solid rgba(253, 176, 146, 0.5);
 }
 
 article {padding: 60px;}
