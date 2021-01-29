@@ -45,6 +45,14 @@ p {font-weight: 400; font-size: 20px; overflow-wrap: break-word;}
   border: 5px solid rgba(253, 176, 146, 0.5);
 }
 
+.small {
+  font-size: 17px;
+}
+
+.blue {
+  color: #0068FF;
+}
+
 article {padding: 60px;}
 /* TODO find better cross-platform characters */
 /* article::before {
