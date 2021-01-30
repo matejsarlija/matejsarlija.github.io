@@ -1,4 +1,4 @@
-body {font-family: 'Space Grotesk', Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
+body {font-family: 'Space Grotesk', Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
 /* IE6-9 fallback on horizontal gradient */
 
 }
@@ -12,7 +12,7 @@ header { padding: 20px; }
 
 a {text-decoration: none; color: #333; border-bottom: 3px solid #0068FF;}
 a:hover {color: #0068FF}
-p {font-family: Montserrat; font-weight: 400; font-size: 19px; overflow-wrap: break-word; word-wrap: break-word;}
+p {font-family: Montserrat; font-weight: 300; font-size: 19px; overflow-wrap: break-word; word-wrap: break-word;}
 
 .name {font-family: 'Space Grotesk'; font-size: 45px; text-transform: uppercase; font-weight: 900; padding: 12px; border: 4px solid #0068FF; color: #0068FF; display: inline-block; position: absolute; margin-bottom: 60px; top: 60px; left: 90px;}
 
