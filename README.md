@@ -1,6 +1,6 @@
 # Hello Page
 
-Profesionalne kuhinje za najam u Zagrebu.
+Snimanje promo videomaterijala u gradu Zagrebu.
 
 Tel: +385915439060
-mail: matejsarlija1@gmail.com
+mail: matej@bizzly.xyz
